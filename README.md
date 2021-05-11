@@ -1,2 +1,3 @@
 # flutter-ml-kit-vision
-Machine Learnign use in Flutter
+
+Machine Learning Vision examples in Flutter.
